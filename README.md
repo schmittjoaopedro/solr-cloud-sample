@@ -151,3 +151,7 @@ A more user-friendly way to check the architecture is inspecting the cloud infor
 And about the core informations:
 
 ![Figure 2](imgs/cores.png)
+
+## Conclusions
+
+This project presented how configure solr cloud integrated with a isolated zookeeper instance in the windows operational system. Besides that, was presented how interact with zookeeper to extract informations about the solr cloud. The next step, is start to upload data to the created core and execute queries.
